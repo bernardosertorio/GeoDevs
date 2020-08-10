@@ -1,7 +1,7 @@
 
 ## 🔖 Sobre
 
-Project developed during the week ** Omnistack ** offered by the programming school ** RocketSeat **. The purpose of the project was to track devs and their respective technologies within a predetermined radius. Thus, connecting devs with other devs.
+ Project developed during the week Omnistack offered by the programming school RocketSeat. The purpose of the project was to track devs and their respective technologies within a predetermined radius. Thus, connecting devs with other devs.
 ---
 
 ## 💻 📱 Technologies used Back-end
