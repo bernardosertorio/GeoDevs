@@ -1,11 +1,10 @@
 
 ## 🔖 Sobre
 
- Projeto desenvolvido na semana **Omnistack** oferecida pela escola de programação **RocketSeat**. O objetivo do projeto foi rastrear devs e suas respectivas tecnologias dentro de um raio de distância predeterminado. Assim, conectando devs com outros devs. 
-
+Project developed during the week ** Omnistack ** offered by the programming school ** RocketSeat **. The purpose of the project was to track devs and their respective technologies within a predetermined radius. Thus, connecting devs with other devs.
 ---
 
-## 💻 📱 Tecnologias utilizadas Back-end
+## 💻 📱 Technologies used Back-end
 
 - [NodeJs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/) 
@@ -17,7 +16,7 @@
 
 ---
 
-## 💻 Tecnologias utilizadas Web
+## 💻 Technologies used Web
 
 - [ReactJs](https://pt-br.reactjs.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -26,19 +25,19 @@
 
 ---
 
-## ⇣ Como baixar o projeto
+## ⇣ How to download the project
 
 ```bash
-# Clonar o repositório
+# Clone the repository
 $ git clone https://github.com/bernardosertorio/GeoDevs/
  
-# Instalar as dependências 
+# Install the dependencies 
 $ npm install
 
-# Iniciar o projeto
+# Start the project
 $ npm start
 ```
 
 ---
 
-Desenvolvido por 😃 Bernardo Sertório
+Developed by 😃 Bernardo Sertório
